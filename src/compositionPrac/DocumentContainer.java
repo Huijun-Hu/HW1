@@ -1,4 +1,4 @@
-package composition;
+package compositionPrac;
 
 public abstract class DocumentContainer {
 
